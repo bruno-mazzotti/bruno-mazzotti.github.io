@@ -6,7 +6,7 @@ encoding: utf-8
 # Build settings
 markdown: kramdown
 # Using rouge because I don't want to install pygments on Windows. Test on GitHub Pages!
-highlighter: rouge
+#highlighter: rouge
 
 # Site settings
 title: Bruno Mazzotti # find a better site title!
