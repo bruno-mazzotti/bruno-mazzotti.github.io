@@ -19,3 +19,6 @@ description: > # This means to ignore newlines until "baseurl:".
 url: "http://bruno.mazzotti.com.br"
 twitter_username: bruno_mazzotti
 github_username:  bruno-mazzotti
+
+# Exclude directories and/or files from the conversion.
+exclude: [CNAME, Gemfile, Gemfile.lock]
