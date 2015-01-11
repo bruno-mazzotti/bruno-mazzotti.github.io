@@ -21,3 +21,7 @@ github_username:  bruno-mazzotti
 
 # Exclude directories and/or files from the conversion.
 exclude: [CNAME, Gemfile, Gemfile.lock]
+
+# Jekyll Plugins.
+gems:
+  - jekyll-sitemap
