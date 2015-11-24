@@ -9,15 +9,23 @@ highlighter: pygments
 
 # Site settings
 title: Bruno Mazzotti # find a better site title!
-email: bruno.mazzotti@gmail.com
+
+email: email
+#email: bruno.mazzotti@gmail.com
+
 description: > # This means to ignore newlines until "baseurl:".
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # The base hostname & protocol for the site.
+
 url: "http://bruno.mazzotti.com.br"
-twitter_username: bruno_mazzotti
-github_username:  bruno-mazzotti
+
+twitter_username: twitter_username
+#twitter_username: bruno_mazzotti
+
+github_username: github_username
+#github_username: bruno-mazzotti
 
 # Exclude directories and/or files from the conversion.
 exclude: [CNAME, Gemfile, Gemfile.lock]
