@@ -5,7 +5,7 @@ encoding: utf-8
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Site settings
 title: Bruno Mazzotti # find a better site title!
